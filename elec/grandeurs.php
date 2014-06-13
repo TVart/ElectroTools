@@ -1,0 +1,9 @@
+<option value="0"></option>
+<option value="12">T</option>
+<option value="9">G</option>
+<option value="6">M</option>
+<option value="3">k</option>
+<option value="-3">m</option>
+<option value="-6">&#181;</option>
+<option value="-9">n</option>
+<option value="-12">p</option>
