@@ -5,5 +5,5 @@ RUN sudo apt-get install -y --no-install-recommends apache2 php5 libapache2-mod-
 EXPOSE 80
 VOLUME ["/var/www"]
 CMD ["-g", "daemon off;"]
-CMD ["httpd", "-DFOREGROUND"]
+#CMD ["httpd", "-DFOREGROUND"]
 #ENTRYPOINT
